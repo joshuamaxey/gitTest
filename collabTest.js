@@ -12,3 +12,5 @@
         //! git checkout main
         //! git fetch upstream
         //! git rebase upstream/main
+
+// 5. In theory these steps SHOULD enable you to create and clone your own fork of my repository and to keep that fork updated with all of the changes from my main branch while preventing any conflicts from occuring through changes that you make to your own fork.
